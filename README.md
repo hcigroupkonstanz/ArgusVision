@@ -1,4 +1,3 @@
-# ArgusVision
 ![Argus Vision](http://i.imgur.com/5ko86Ny.jpg)
 # Argus Vision
 This is the git-repository for Argus Vision. Argus Vision consists of two seperate applications: 
